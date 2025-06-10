@@ -1,0 +1,12 @@
+/root/gRPC_-Service/gRPCService/target/debug/deps/libtonic_build-9e4b01b6ac290459.rmeta: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/prost.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/manual.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/client.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/server.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/code_gen.rs
+
+/root/gRPC_-Service/gRPCService/target/debug/deps/libtonic_build-9e4b01b6ac290459.rlib: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/prost.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/manual.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/client.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/server.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/code_gen.rs
+
+/root/gRPC_-Service/gRPCService/target/debug/deps/tonic_build-9e4b01b6ac290459.d: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/prost.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/manual.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/client.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/server.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/code_gen.rs
+
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/prost.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/manual.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/client.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/server.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tonic-build-0.10.2/src/code_gen.rs:
